@@ -39,7 +39,7 @@ Telegram is a cloud based instant messaging app. It has features like
 ## ERRORS
 
 * I was not able to connect the telegram bot to esp32 as the telegram bot is not responding to any commands.
-![this is an image]()
+![this is an image](https://github.com/bhooshan11/connecting-esp32-to-telegram/blob/main/error%20photo.jpg)
 
 ## REFERENCES
 

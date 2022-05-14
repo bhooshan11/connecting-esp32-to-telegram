@@ -1,5 +1,5 @@
 # Task 3 : Connecting esp32 to telegram
-## What is Telegram?
+### What is Telegram?
 
 Telegram is a cloud based instant messaging app. It has features like
 
@@ -36,11 +36,11 @@ Telegram is a cloud based instant messaging app. It has features like
 *	Select /led_on.
 *	Built in led in esp32 will turn on.
 
-## ERRORS
+## Errors
 
 * I was not able to connect the telegram bot to esp32 as the telegram bot is not responding to any commands.
 ![this is an image](https://github.com/bhooshan11/connecting-esp32-to-telegram/blob/main/error%20photo.jpg)
 
-## REFERENCES
+## References
 
 https://iotdesignpro.com/projects/telegram-bot-with-esp32-control-gpio-pins-through-telegram-chat 

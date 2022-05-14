@@ -26,10 +26,10 @@ Telegram is a cloud based instant messaging app. It has features like
 ## Procedure 
 * Open arduino IDE and paste the code
 
-    Code:
+    Code:https://github.com/bhooshan11/connecting-esp32-to-telegram/blob/main/task_3_code.ino
 * Upload the code to Esp32.
 *	Press enable/reset key, so the it starts connecting to wifi
-*	Open telegram
+*	Open telegram app.
 *	Start conversation with your bot by the link provided by the botfather.
 *	Type /start.
 *	Bot will give you list of operations that can perform.
